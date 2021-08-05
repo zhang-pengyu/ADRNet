@@ -20,9 +20,9 @@ The official code and results for IJCV paper: [Learning Adaptive Attribute-Drive
 ### Comparison with VOT2019-RGBT competitors.
 | Tracker | EAO | Acc | R |
 | ------ | ------ | ------ | ------ |
-| JMMAC | 0.4826 | 0.6649 | 0.8211 |
-| **ADRNet** | 0.3959 | 0.6218 | 0.7567 |
-| SiamDW-T | 0.3925 | 0.6158 | 0.7839 | 
+| JMMAC | <font color=red>0.4826</font> | 0.6649 | 0.8211 |
+| **ADRNet** | <font color=blue>0.3959</font> | 0.6218 | 0.7567 |
+| SiamDW-T | <font color=green>0.3925</font>  | 0.6158 | 0.7839 | 
 | mfDiMP | 0.3879 | 0.6019 | 0.8036 |
 | FSRPN | 0.3553 | 0.6362 | 0.7069 |
 | MANet | 0.3463 | 0.5823 | 0.7010 |

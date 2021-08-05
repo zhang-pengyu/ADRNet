@@ -31,7 +31,12 @@ The official code and results for IJCV paper: [Learning Adaptive Attribute-Drive
 | GESBTT | 0.2896 | 0.6163 | 0.6350 |
 
 ## Get Started
-###　 set up Anaconda environment
+### Set up Anaconda environment
 ```
-aaaa
+conda create -n ADRNet python=3.7
+conda activate ADRNet
+cd $Path_to_ADRNet$
+bash install.sh
 ```
+### Run Demo sequence
+

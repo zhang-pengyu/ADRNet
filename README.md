@@ -72,11 +72,12 @@ python train_ADRNet.py
 ## Citation
 If you feel our work is useful, please cite, 
 
-@article{Zhang_IJCV21_ADRNet,
-	author = {Pengyu Zhang and Dong Wang and Huchuan Lu and Xiaoyun Yang},
-	title = {Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking},
-	journal = IJCV,
-	volume = {},
-	pages = {},
-	year = {2021}
+@article{Zhang_IJCV21_ADRNet,\
+	author = {Pengyu Zhang and Dong Wang and Huchuan Lu and Xiaoyun Yang},\
+	title = {Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking},\
+	journal = IJCV,\
+	volume = {},\
+	pages = {},\
+	year = {2021}\
 }
+If you have any questions, feel free to contract with [me](pyzhang@mail.dlut.edu.cn)

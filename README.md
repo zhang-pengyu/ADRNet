@@ -69,6 +69,8 @@ Finally, you can train the model after setting your data path,
 cd $Path_to_ADRNet$
 python train_ADRNet.py
 ```
+## Model zoo
+The model can be found in [google drive]() and [baidu disk]()
 ## Citation
 If you feel our work is useful, please cite, 
 

@@ -39,4 +39,13 @@ cd $Path_to_ADRNet$
 bash install.sh
 ```
 ### Run Demo sequence
-
+```
+cd $Path_to_ADRNet$
+python Run_test.py
+```
+### Run RGBT234 and GTOT
+```
+cd $Path_to_ADRNet$
+python Run_RGBT234.py
+python Run_GTOT.py
+```

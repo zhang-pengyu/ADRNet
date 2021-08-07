@@ -64,3 +64,10 @@ cd $Path_to_ADRNet/modules$
 python prepro_data_GTOT.py
 python prepro_data_RGBT234.py
 ```
+Finally, you can train the model after setting your data path,
+```
+cd $Path_to_ADRNet$
+python train_ADRNet.py
+```
+## Citation
+If you feel our work is useful, please cite, 

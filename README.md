@@ -78,8 +78,8 @@ If you feel our work is useful, please cite,
 	author = {Pengyu Zhang and Dong Wang and Huchuan Lu and Xiaoyun Yang},\
 	title = {Learning Adaptive Attribute-Driven Representation for Real-Time RGB-T Tracking},\
 	journal = IJCV,\
-	volume = {},\
-	pages = {},\
+	volume = {129},\
+	pages = {2714–2729},\
 	year = {2021}\
 }\
 If you have any questions, feel free to contract with [me](mailto:pyzhang@mail.dlut.edu.cn)

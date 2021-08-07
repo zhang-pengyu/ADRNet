@@ -79,5 +79,5 @@ If you feel our work is useful, please cite,
 	volume = {},\
 	pages = {},\
 	year = {2021}\
-}
-If you have any questions, feel free to contract with [me](pyzhang@mail.dlut.edu.cn)
+}\
+If you have any questions, feel free to contract with [me](mailto:pyzhang@mail.dlut.edu.cn)

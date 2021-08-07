@@ -60,7 +60,7 @@ python generate_TC_GTOT.py
 ```
 Then, generate pkl files via, 
 ```
-cd $Path_to_ADRNet/data_generation$
+cd $Path_to_ADRNet/modules$
 python prepro_data_GTOT.py
 python prepro_data_RGBT234.py
 ```

@@ -49,3 +49,18 @@ cd $Path_to_ADRNet$
 python Run_RGBT234.py
 python Run_GTOT.py
 ```
+## Training
+For training ADRB, you should generate attribute-specific data via
+```
+cd $Path_to_ADRNet/data_generation$
+python generate_EI_GTOT.py
+python generate_MB_GTOT.py
+python generate_OCC_GTOT.py
+python generate_TC_GTOT.py
+```
+Then, generate pkl files via, 
+```
+cd $Path_to_ADRNet/data_generation$
+python prepro_data_GTOT.py
+python prepro_data_RGBT234.py
+```

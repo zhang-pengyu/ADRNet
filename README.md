@@ -71,7 +71,7 @@ cd $Path_to_ADRNet$
 python train_ADRNet.py
 ```
 ## Model zoo
-The model can be found in [google drive](https://drive.google.com/drive/folders/1u-GphvXxeI8YxOE1_TvC31HZAtSLj0yo?usp=sharing) and [baidu disk(code:95mj)](https://pan.baidu.com/s/1Cr1Kn-4hzu-S6KgYTQbz5w). After downloading, you should put it in $Path_to_ADRNet/models/$
+The model can be found in [google drive](https://drive.google.com/drive/folders/1u-GphvXxeI8YxOE1_TvC31HZAtSLj0yo?usp=sharing) and [baidu disk(code:56cu)](https://pan.baidu.com/s/1nVkh-69EFeydgyvc8AAvUw). After downloading, you should put it in $Path_to_ADRNet/models/$
 ## Citation
 If you feel our work is useful, please cite, 
 
